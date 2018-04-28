@@ -9,3 +9,4 @@ class SandboxApplication
 fun main(args: Array<String>) {
     runApplication<SandboxApplication>(*args)
 }
+
